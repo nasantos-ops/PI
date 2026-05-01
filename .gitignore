@@ -1,0 +1,16 @@
+venv/
+.DS_Store
+venv/
+Venv/
+.DS_Store
+venv/
+.venv/
+env/
+.env/
+bin/
+lib/
+include/
+.DS_Store
+__pycache__/
+*.mp4
+*.mov
