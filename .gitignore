@@ -14,3 +14,7 @@ include/
 __pycache__/
 *.mp4
 *.mov
+data/
+*.png
+*.jpg
+__pycache__/
