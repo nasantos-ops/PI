@@ -18,3 +18,26 @@ data/
 *.png
 *.jpg
 __pycache__/
+*.pt
+
+# Data files
+*.xlsx
+*.csv
+*.mp4
+*.mp4.zip
+*.zip
+*.pt
+*.fna
+*.fasta
+*.gbk
+*.xml
+*.gz
+*.gb
+
+# USC lecture folder
+USC_ML_lecture_2022_BilgenurBaloglu/
+
+# Output files
+video-771_*
+data.xlsx
+data_full.xlsx
