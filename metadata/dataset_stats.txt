@@ -1,0 +1,90 @@
+=======================================================
+  ROBOTICS TRAINING DATASET — SUMMARY
+=======================================================
+  Total segments:      443
+  Unique task labels:  61
+  Occluded segments:   169 (38.1%)
+  Bimanual segments:   229 (51.7%)
+  Video domains:       3
+
+  TOP 10 TASK LABELS:
+    retract_hand                             60
+    lift_object                              52
+    lower_object                             36
+    reach_and_orient                         33
+    reach_and_grasp                          28
+    reach_fruit                              18
+    move_object_bimanual                     17
+    grasp_and_twist_off                      17
+    reach_and_pinch                          16
+    reach_and_grasp_handle                   14
+
+  GRIP TYPE BREAKDOWN:
+    Power                 269
+    Pinch                  89
+    Unknown                78
+    Lateral                 7
+
+  TASK LABEL → ID MAPPING:
+      0  bimanual_hold_open
+      1  circular_sweep
+      2  close_door
+      3  close_lid
+      4  dual_lift_objects
+      5  dual_lower_and_place
+      6  dual_move_objects
+      7  dual_reach_and_grasp
+      8  dual_slide_and_place
+      9  engage_latch
+     10  fold_and_place
+     11  grasp_and_twist_off
+     12  insert_into_rack
+     13  lateral_slide
+     14  lateral_sweep
+     15  lift_lid
+     16  lift_object
+     17  lift_pan_with_spoon_entry
+     18  lift_upwards
+     19  lower_and_place
+     20  lower_object
+     21  move_and_orient_glass
+     22  move_object_bimanual
+     23  move_object_occluded
+     24  move_object_singular
+     25  move_object_upright
+     26  move_pan_upright
+     27  move_to_sink_position
+     28  position_spoon_block
+     29  pull_downwards
+     30  pull_towards
+     31  pull_upwards
+     32  push_away
+     33  push_down
+     34  push_towards
+     35  reach_and grasp
+     36  reach_and_actuate_tool
+     37  reach_and_graso_handle
+     38  reach_and_grasp
+     39  reach_and_grasp_handle
+     40  reach_and_grasp_pan
+     41  reach_and_orient
+     42  reach_and_pinch
+     43  reach_and_press
+     44  reach_fruit
+     45  release_and_close_singular
+     46  retract_hand
+     47  rotate_anti_clockwise
+     48  rotation_of_hand
+     49  shake_to_empty
+     50  slide_away
+     51  slide_towards
+     52  stabilize_object
+     53  swing_closed
+     54  swing_open
+     55  tear_towel
+     56  tilt_and_stabilize_pasta
+     57  tilt_object
+     58  tilt_to_pour
+     59  tool_grasp_object
+     60  transport_and_place_in_bag
+=======================================================
